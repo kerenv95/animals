@@ -25,4 +25,4 @@ try:
     animal_object = animal(animalInput[2].lower())
     animal_object.info()
 except Exception as e:
-    print(e)
+    print("Hola mundo")
